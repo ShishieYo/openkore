@@ -370,3 +370,14 @@ dead_message RMS Test Server was closed on 2022.
 [International - iRO: Poring]
 dead 1
 dead_message iRO Transcendence was closed on 31 of March, 2022. Visit official website for more details.
+
+# ThorRO (rAthena, 2025-06-04 Ragexe client). ip = the NAS address on Tailscale.
+[ThorRO]
+ip 100.118.138.45
+port 6900
+master_version 1
+version 1
+serverType ThorRO
+serverEncoding Western
+charBlockSize 175
+addTableFolders ThorRO;iRO;translated/kRO_english;kRO
